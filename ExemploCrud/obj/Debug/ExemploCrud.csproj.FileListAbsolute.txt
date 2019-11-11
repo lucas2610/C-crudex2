@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ExemploCrud\bin\Debug\ExemploCrud.exe.config
+C:\Users\User\source\repos\ExemploCrud\bin\Debug\ExemploCrud.exe
+C:\Users\User\source\repos\ExemploCrud\bin\Debug\ExemploCrud.pdb
+C:\Users\User\source\repos\ExemploCrud\obj\Debug\ExemploCrud.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExemploCrud\obj\Debug\ExemploCrud.Form1.resources
+C:\Users\User\source\repos\ExemploCrud\obj\Debug\ExemploCrud.Properties.Resources.resources
+C:\Users\User\source\repos\ExemploCrud\obj\Debug\ExemploCrud.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ExemploCrud\obj\Debug\ExemploCrud.exe
+C:\Users\User\source\repos\ExemploCrud\obj\Debug\ExemploCrud.pdb
